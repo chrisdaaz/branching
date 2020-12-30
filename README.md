@@ -6,9 +6,9 @@ In this lab, you will be contributing edits to a spreadsheet containing digital 
 
 ## Instructions
 
->If you're on macOS or Linux, you can use your default terminal program as your command line interface. If you're on Windows, please use Git Bash. 
+> If you're on macOS or Linux, you can use your default terminal program as your command line interface. If you're on Windows, please use Git Bash. 
 
-1. Open your terminal to your project folder (`learn-git`) and clone this repository to your computer with SSH:
+1. Open your terminal to your project folder (`learn-git`) and clone this repository to your computer with SSH and change directories into it:
 
 ```bash
 git clone git@github.com:chrisdaaz/branching.git
@@ -21,50 +21,49 @@ cd branching
 git branch diaz
 ```
 
-3. Switch to your new branch:
+3. List your available branches with the `git branch` command and switch to your new branch with the `git checkout <branch-name>` command:
 
 ```bash
+git branch
 git checkout diaz
 ```
 
-4. [Download the metadata file](https://docs.google.com/spreadsheets/d/1TCcrJ3-Vx_rRb2XzoHmzHiDkz1ZWsWw8bmsXSmMPTcY/edit?usp=sharing) and add it to your repository's working directiry by saving the file to the `collaboration` folder on your computer. 
+4. We're going to be working with a spreadsheet in CSV format. CSV is a plain text format for data, where as Excel files (like `.xlsx`) are proprietary files. Git is able to track the _specific_ differences between versions of CSV files (down to the character) but not proprietary file formats like Microsoft Excel. [Download the metadata file](https://docs.google.com/spreadsheets/d/1TCcrJ3-Vx_rRb2XzoHmzHiDkz1ZWsWw8bmsXSmMPTcY/edit?usp=sharing) and add it to your repository's working directory by saving the file to the `branching` folder on your computer. You can use your File Explorer application to move the file from the "Downloads" folder to the `branching` repository folder.
 
-5. Add the metadata file to the repository's staging area:
+5. Once it's been added. Git knows about it. Run the `git status` command to verify that the file is "untracked" within your working directory. Now, add the metadata file to the repository's staging area:
 
 ```bash
+git status
 git add metadata.csv
 ```
 
-6. Commit the file to your repository:
+6. Commit the file to your branch:
 
 ```bash
 git commit -m "adds metadata file"
 ```
 
-7. Open the `metadata.csv` file in a spreadsheet editor (e.g. Microsoft Excel, Google Sheets, etc.) and make some edits to values within the `Title` columns (write anything you want, just make sure it's different than what's there). When you save the file, **do not change the format from CSV to anything else**.
+7. Open the `metadata.csv` file in a spreadsheet editor (e.g. Microsoft Excel, Google Sheets, etc.) and make some edits to values within the `Title` columns (write anything you want, just make sure it's different than what's there). When you save the file, **do not change the format from CSV to anything else**. You can keep the file open as we'll be saving and committing multiple versions of this file to your branch's history.
 
-8. Commit your changes to your repository:
+8. Commit your changes to your repository. The `-am` flag in place of the usual `-m` is a shortcut for combining `git add` and `git commit` into one command:
 
 ```bash
-# the -am flag is a shortcut for combining git add and git commit into one command
 git commit -am "edits to titles"
 ```
 
-9. Open the `metadata.csv` file in a spreadsheet editor (e.g. Microsoft Excel, Google Sheets, etc.) and make some edits to values within the `Dates` columns (write anything you want, just make sure it's different than what's there). 
+9. Make some edits to values within the `Dates` columns (write anything you want, just make sure it's different than what's there). Save the file. 
 
 10. Commit your changes to your repository:
 
 ```bash
-# the -am flag is a shortcut for combining git add and git commit into one command
 git commit -am "edits to dates"
 ```
 
-11. Open the `metadata.csv` file in a spreadsheet editor (e.g. Microsoft Excel, Google Sheets, etc.) and make some edits to values within the `Descriptions` columns (write anything you want, just make sure it's different than what's there). 
+11. Make some edits to values within the `Descriptions` columns (write anything you want, just make sure it's different than what's there). Save the file.
 
 12. Commit your changes to your repository:
 
 ```bash
-# the -am flag is a shortcut for combining git add and git commit into one command
 git commit -am "edits to descriptions"
 ```
 
@@ -86,7 +85,7 @@ git commit -am "adds git log"
 git push origin diaz
 ```
 
-14. Visit the repository on GitHub: https://github.com/chrisdaaz/collaboration-lab
+14. Visit the repository on GitHub: https://github.com/chrisdaaz/branching
 
 15. If you're logged in, you should see your branch available on the GitHub repository, as well as a button to compare and create a pull request. Open a pull request with your branch on the repository ([instructions](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)). You can give your pull request a name and add a description to provide some helpful context (not necessary here, but FYI for future pull requests). 
 
