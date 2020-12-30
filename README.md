@@ -87,7 +87,11 @@ git push origin diaz
 
 14. Visit the repository on GitHub: https://github.com/chrisdaaz/branching
 
-15. If you're logged in, you should see your branch available on the GitHub repository, as well as a button to compare and create a pull request. Open a pull request with your branch on the repository ([instructions](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)). You can give your pull request a name and add a description to provide some helpful context (not necessary here, but FYI for future pull requests). 
+15. If you're logged in, you should see your branch available on the GitHub repository, as well as a button to compare and create a pull request. 
+
+> A Pull Request is a method of contributing changes from one branch to another. If the changes are accepted by the repository administrator, the Pull Request is merged to the target branch. Pull Requests are a good opporunity to test code and request feedback from collaborators. The GitHub interface allows team members to comment and highlight specific changes within the code to discuss the changes.
+
+Open a pull request with your branch on the repository ([instructions](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)). You can give your pull request a name and add a description to provide some helpful context (not necessary here, but FYI for future pull requests). 
 
 That's it!
 
