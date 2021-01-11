@@ -1,0 +1,47 @@
+commit b8fe3d69f3f4b138871d4f31d7f9403d6d3d17fc
+Author: Natalie Vielfaure <Natalie.Vielfaure@umanitoba.ca>
+Date:   Mon Jan 11 10:01:16 2021 -0600
+
+    edits to descriptions
+
+commit 88a1d75fd1dfe059299584ccd2b13bdec626e027
+Author: Natalie Vielfaure <Natalie.Vielfaure@umanitoba.ca>
+Date:   Mon Jan 11 09:56:14 2021 -0600
+
+    edits to dates
+
+commit 2cf30749fdaeb77581d5876e27982c120f33b901
+Author: Natalie Vielfaure <Natalie.Vielfaure@umanitoba.ca>
+Date:   Mon Jan 11 09:54:20 2021 -0600
+
+    edits to titles
+
+commit 0468292308bf4f937a078ab37e582cd1ff444c40
+Author: Natalie Vielfaure <Natalie.Vielfaure@umanitoba.ca>
+Date:   Mon Jan 11 09:32:00 2021 -0600
+
+    adds metadata file
+
+commit 61265119fe1710b8832753740ac5c549cf6fdaf3
+Author: Chris Diaz <chris-diaz@northwestern.edu>
+Date:   Wed Dec 30 16:57:42 2020 -0600
+
+    Update README.md
+
+commit b8beedb297564f1694fb49f3a57c56509882b2ee
+Author: Chris Diaz <chris-diaz@northwestern.edu>
+Date:   Wed Dec 30 16:38:48 2020 -0600
+
+    Update README.md
+
+commit cfe44506c24dcc6865b0afec676692c722a9d8e8
+Author: Chris Diaz <chris-diaz@northwestern.edu>
+Date:   Wed Dec 30 15:49:50 2020 -0600
+
+    Update README.md
+
+commit 3c176feeafbef0d709bec17533a7c947749ca70f
+Author: Chris Diaz <chris-diaz@northwestern.edu>
+Date:   Wed Dec 30 15:49:35 2020 -0600
+
+    Initial commit
