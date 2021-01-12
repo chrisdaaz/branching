@@ -1,6 +1,8 @@
 # Lab Assignment: Branching
 
-In this lab, you will be contributing edits to a spreadsheet containing digital collections metadata. This lab simulates the process for contributing to a Git repository that you have "read-write" permissions using the [Git Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow). Your task will be to edit the spreadsheet, document your changes, and push a new version of this spreadsheet with your edits as a branch using Git and GitHub from the command line. 
+> Make sure the instructor has your GitHub username either by submitting the `online-portfolio` lab assignment via Moodle or messaging himi with your username. 
+
+In this lab, you will be contributing edits to a spreadsheet containing digital collections metadata. This lab simulates the process for contributing to a Git repository that you have "read-write" permissions using the [Git Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow). This is a common workflow for teams who work together on a specific project, where each team member has `push` access to the git repository. Your task will be to edit the spreadsheet, document your changes, and push a new version of this spreadsheet with your edits as a branch using Git and GitHub from the command line. 
 
 > **Branch:** A branch represents an independent line of development. Branches serve as an abstraction for the edit/stage/commit process. You can think of them as a way to request a brand new working directory, staging area, and project history. ["Git Branch" by Atlassian](https://www.atlassian.com/git/tutorials/using-branches)
 
