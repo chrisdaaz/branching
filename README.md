@@ -78,7 +78,8 @@ git log > log.txt
 14. Commit the log file to your branch:
 
 ```bash
-git commit -am "adds git log"
+git add log.txt
+git commit -m "adds git log"
 ```
 
 13. Push new branch with your to the `origin` remote on GitHub:
