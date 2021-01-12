@@ -1,0 +1,47 @@
+commit 10d8ead9fba7bbc61fb53466f371fbf12dac2d4a
+Author: Alexandra Eveleigh <41161695+amme2@users.noreply.github.com>
+Date:   Mon Jan 11 21:27:32 2021 +0000
+
+    edits to descriptions
+
+commit 91867ed3f7733640b3a76ec3a571d78a78289111
+Author: Alexandra Eveleigh <41161695+amme2@users.noreply.github.com>
+Date:   Mon Jan 11 21:24:19 2021 +0000
+
+    edits to dates
+
+commit bfd2ac3ac64e7ae9c25815414393f5a5d7708983
+Author: Alexandra Eveleigh <41161695+amme2@users.noreply.github.com>
+Date:   Mon Jan 11 21:19:57 2021 +0000
+
+    edits to titles
+
+commit 182f3e25d15ee2ad4ab07f1b957f0a6899e7fb9d
+Author: Alexandra Eveleigh <41161695+amme2@users.noreply.github.com>
+Date:   Mon Jan 11 21:05:04 2021 +0000
+
+    adds metadata file
+
+commit 61265119fe1710b8832753740ac5c549cf6fdaf3
+Author: Chris Diaz <chris-diaz@northwestern.edu>
+Date:   Wed Dec 30 16:57:42 2020 -0600
+
+    Update README.md
+
+commit b8beedb297564f1694fb49f3a57c56509882b2ee
+Author: Chris Diaz <chris-diaz@northwestern.edu>
+Date:   Wed Dec 30 16:38:48 2020 -0600
+
+    Update README.md
+
+commit cfe44506c24dcc6865b0afec676692c722a9d8e8
+Author: Chris Diaz <chris-diaz@northwestern.edu>
+Date:   Wed Dec 30 15:49:50 2020 -0600
+
+    Update README.md
+
+commit 3c176feeafbef0d709bec17533a7c947749ca70f
+Author: Chris Diaz <chris-diaz@northwestern.edu>
+Date:   Wed Dec 30 15:49:35 2020 -0600
+
+    Initial commit
