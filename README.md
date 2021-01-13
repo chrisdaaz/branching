@@ -82,7 +82,7 @@ git add log.txt
 git commit -m "adds git log"
 ```
 
-13. Push new branch with your to the `origin` remote on GitHub:
+13. Push new branch with your to the `origin` remote on GitHub. Do not forget to replace `diaz` with the name of your own branch.
 
 ```bash
 git push origin diaz
