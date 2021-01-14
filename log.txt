@@ -1,0 +1,47 @@
+commit cd83e185deecad844126c3cd5c3236cbedf77e85
+Author: Katy Rawdon <krawdon@temple.edu>
+Date:   Mon Jan 11 11:46:32 2021 -0500
+
+    edits to descriptions
+
+commit 91de02217885dd0f2996f699f8f415ec67cc0a9b
+Author: Katy Rawdon <krawdon@temple.edu>
+Date:   Mon Jan 11 11:45:21 2021 -0500
+
+    edits to dates
+
+commit 8e37da8e80603caa40487deecd38f0e566fa8d79
+Author: Katy Rawdon <krawdon@temple.edu>
+Date:   Mon Jan 11 11:44:21 2021 -0500
+
+    edits to titles
+
+commit 95971003ad46f45fc70c03b35b19261adfa5f665
+Author: Katy Rawdon <krawdon@temple.edu>
+Date:   Mon Jan 11 11:42:16 2021 -0500
+
+    adds metadata file
+
+commit 61265119fe1710b8832753740ac5c549cf6fdaf3
+Author: Chris Diaz <chris-diaz@northwestern.edu>
+Date:   Wed Dec 30 16:57:42 2020 -0600
+
+    Update README.md
+
+commit b8beedb297564f1694fb49f3a57c56509882b2ee
+Author: Chris Diaz <chris-diaz@northwestern.edu>
+Date:   Wed Dec 30 16:38:48 2020 -0600
+
+    Update README.md
+
+commit cfe44506c24dcc6865b0afec676692c722a9d8e8
+Author: Chris Diaz <chris-diaz@northwestern.edu>
+Date:   Wed Dec 30 15:49:50 2020 -0600
+
+    Update README.md
+
+commit 3c176feeafbef0d709bec17533a7c947749ca70f
+Author: Chris Diaz <chris-diaz@northwestern.edu>
+Date:   Wed Dec 30 15:49:35 2020 -0600
+
+    Initial commit
