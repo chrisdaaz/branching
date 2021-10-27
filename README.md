@@ -1,6 +1,6 @@
 # Lab Assignment: Branching
 
-> Make sure the instructor has your GitHub username either by submitting the `online-portfolio` lab assignment via Moodle or messaging him with your username. 
+> Make sure the instructor has your GitHub username either by submitting the `Your First Repository` lab assignment via Moodle or messaging him with your username. 
 
 In this lab, you will be contributing edits to a spreadsheet containing digital collections metadata. This lab simulates the process for contributing to a Git repository that you have "read-write" permissions using the [Git Feature Branch Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow). This is a common workflow for teams who work together on a specific project, where each team member has `push` access to the git repository. Your task will be to edit the spreadsheet, document your changes, and push a new version of this spreadsheet with your edits as a branch using Git and GitHub from the command line. 
 
@@ -8,12 +8,12 @@ In this lab, you will be contributing edits to a spreadsheet containing digital 
 
 ## Instructions
 
-> If you're on macOS or Linux, you can use your default terminal program as your command line interface. If you're on Windows, please use Git Bash. 
+> If you're on macOS or Linux, you can use your default terminal program as your command line interface. If you're on Windows, please use Git Bash. If you'd not comfortable with command line Git, you can also use [GitHub Desktop](https://desktop.github.com/). 
 
 1. Open your terminal to your project folder (`learn-git`) and clone this repository to your computer with SSH and change directories into it:
 
 ```bash
-git clone git@github.com:chrisdaaz/branching.git
+git clone https://github.com/chrisdaaz/branching.git
 cd branching
 ```
 
