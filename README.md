@@ -10,7 +10,7 @@ In this lab, you will be contributing edits to a spreadsheet containing digital 
 
 > If you're on macOS or Linux, you can use your default terminal program as your command line interface. If you're on Windows, please use Git Bash. If you'd not comfortable with command line Git, you can also use [GitHub Desktop](https://desktop.github.com/). 
 
-1. Open your terminal to your project folder (`learn-git`) and clone this repository to your computer with SSH and change directories into it:
+1. Open your terminal (you might want to create a directory for git projects, `mkdir learn-git && cd learn-git`) and clone this repository to your computer and change directories into it:
 
 ```bash
 git clone https://github.com/chrisdaaz/branching.git
