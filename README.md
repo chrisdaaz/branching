@@ -30,7 +30,7 @@ git branch
 git checkout diaz
 ```
 
-4. We're going to be working with a spreadsheet in CSV format. CSV is a plain text format for data, where as Excel files (like `.xlsx`) are proprietary files. Git is able to track the _specific_ differences between versions of CSV files (down to the character) but not proprietary file formats like Microsoft Excel. [Download the metadata file](https://docs.google.com/spreadsheets/d/1TCcrJ3-Vx_rRb2XzoHmzHiDkz1ZWsWw8bmsXSmMPTcY/edit?usp=sharing) and add it to your repository's working directory by saving the file to the `branching` folder on your computer. You can use your File Explorer application to move the file from the "Downloads" folder to the `branching` repository folder.
+4. We're going to be working with a spreadsheet in CSV format. CSV is a plain text format for data, where as Excel files (like `.xlsx`) are proprietary files. Git is able to track the _specific_ differences between versions of CSV files (down to the character) but not proprietary file formats like Microsoft Excel. [Download the metadata file](https://docs.google.com/spreadsheets/d/1TCcrJ3-Vx_rRb2XzoHmzHiDkz1ZWsWw8bmsXSmMPTcY/edit?usp=sharing) and add it to your repository's working directory by saving the file to the `branching` folder on your computer, replacing the original `metadata.csv` file with your version. You can use your File Explorer application to move the file from the "Downloads" folder to the `branching` repository folder.
 
 5. Once it's been added. Git knows about it. Run the `git status` command to verify that the file is "untracked" within your working directory. Now, add the metadata file to the repository's staging area:
 
