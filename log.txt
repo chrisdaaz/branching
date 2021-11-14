@@ -1,0 +1,223 @@
+commit d94e2b6b05defd0d5174e6b3cc3d2c4950149c60
+Author: imugua <imugua@gmail.com>
+Date:   Sun Nov 14 16:52:58 2021 +0100
+
+    edits to description
+
+commit 0e4b72dda057e451eae0df3b179b4a8cdc0fc6d7
+Author: imugua <imugua@gmail.com>
+Date:   Sun Nov 14 16:51:23 2021 +0100
+
+    edits to dates
+
+commit a18961cb4979b9725a98a84a25dd6ed49a0c2ded
+Author: imugua <imugua@gmail.com>
+Date:   Sun Nov 14 16:49:45 2021 +0100
+
+    edits to titles
+
+commit bf64e71fdc5239864e78dc5449d0995ee98e60e3
+Author: imugua <imugua@gmail.com>
+Date:   Sun Nov 14 16:46:24 2021 +0100
+
+    adds metadata file
+
+commit 7513d60a78261f3d83aa74a9081845a3be796820
+Merge: a94b5b3 0551460
+Author: Natasa Hogue <93559904+natdothogue@users.noreply.github.com>
+Date:   Sat Nov 13 18:43:38 2021 -0500
+
+    Merge pull request #30 from chrisdaaz/natdothogue
+    
+    Natdothogue
+
+commit 05514608c353359e78d301c90f171167e222cc57
+Author: Natasa Hogue <natasa.hogue@lirn.net>
+Date:   Sat Nov 13 18:30:48 2021 -0500
+
+    Update metadata.numbers
+
+commit f354ba6ed7bc9710ff59e6e9be1ea79ca6a8172b
+Author: Natasa Hogue <natasa.hogue@lirn.net>
+Date:   Sat Nov 13 18:26:07 2021 -0500
+
+    Delete metadata.csv
+
+commit 745d65e122d67ac685de99d15ae8624dea77184d
+Author: Natasa Hogue <natasa.hogue@lirn.net>
+Date:   Sat Nov 13 18:25:32 2021 -0500
+
+    Update metadata.numbers
+
+commit 9b8d5c9548cda7a5e34b571742fa31b619c1ac81
+Author: Natasa Hogue <natasa.hogue@lirn.net>
+Date:   Sat Nov 13 18:23:54 2021 -0500
+
+    Create metadata.numbers
+
+commit a94b5b3f526700bfa67f35a65d4a34745c2ef227
+Author: Chris Diaz <chris-diaz@northwestern.edu>
+Date:   Thu Nov 11 15:33:56 2021 -0600
+
+    Update README.md
+
+commit 680dff03a30db085f1508d4fef103453d08a9ab6
+Author: Chris Diaz <chris-diaz@northwestern.edu>
+Date:   Mon Nov 8 09:59:52 2021 -0600
+
+    Update README.md
+
+commit 9b6e09ac7d51873b1fd7db0b90ec1996a56b733d
+Author: Chris Diaz <chris-diaz@northwestern.edu>
+Date:   Wed Oct 27 13:15:43 2021 -0500
+
+    Update README.md
+
+commit ef14906dfb6d1fe257edf7e43531d9c1f3290a69
+Merge: c1b0660 e83bf2d
+Author: Jennifer Stubbs <52942431+jas58@users.noreply.github.com>
+Date:   Tue Jan 19 11:09:57 2021 +0800
+
+    Merge pull request #4 from chrisdaaz/stubbs
+    
+    Stubbs Lab week 2  did I miss this step before?  I misunderstood it as, "Waiting for admin"
+
+commit c1b066006c23d63d7818a97a0ff0e9febcd2624a
+Author: Chris Diaz <chris-diaz@northwestern.edu>
+Date:   Wed Jan 13 11:05:58 2021 -0600
+
+    Update README.md
+
+commit f4151e99e13f7d0c30edbb81f24e19ab260b1215
+Author: Chris Diaz <chris-diaz@northwestern.edu>
+Date:   Tue Jan 12 15:12:13 2021 -0600
+
+    Update README.md
+
+commit b2dbb1f7858e213e9af282db7fc429bd4dacb6da
+Author: Chris Diaz <chris-diaz@northwestern.edu>
+Date:   Tue Jan 12 11:08:17 2021 -0600
+
+    remove metadata
+
+commit 08b9b71d4234ee0ef1328a8a6f493002476663b2
+Author: Chris Diaz <chris-diaz@northwestern.edu>
+Date:   Tue Jan 12 11:03:54 2021 -0600
+
+    Revert "edits to titles"
+    
+    This reverts commit bc5084ea7c9003a49f1c54631095d18c037b2422.
+
+commit 2b3c0b015778b534e3f84a0d8d794851b97e8439
+Author: Chris Diaz <chris-diaz@northwestern.edu>
+Date:   Tue Jan 12 11:03:04 2021 -0600
+
+    Revert "edits to descriptions"
+    
+    This reverts commit 7097289948b5b6639b0f66ff35d330390c18320f.
+
+commit dfc46e202b4fba24dd8b36ebc0c910476257421c
+Author: Chris Diaz <chris-diaz@northwestern.edu>
+Date:   Tue Jan 12 11:02:36 2021 -0600
+
+    Revert "edits to dates"
+    
+    This reverts commit f7f7c77ac718d78325cd97b21c21f573e89a745a.
+
+commit d29e25260511942f50623627312f4d32f1ab6824
+Author: Chris Diaz <chris-diaz@northwestern.edu>
+Date:   Tue Jan 12 11:00:10 2021 -0600
+
+    Revert "edits to titles"
+    
+    This reverts commit 8db0e88b05c1dbb0995826d8f35c6710cc784520.
+
+commit 4d8cbf801a3f3a09c7a546c1d874bace9bb226ff
+Author: Chris Diaz <chris-diaz@northwestern.edu>
+Date:   Tue Jan 12 10:42:48 2021 -0600
+
+    Update README.md
+
+commit a5f976726145d7af6eb230d999796889bd026f06
+Author: Chris Diaz <chris-diaz@northwestern.edu>
+Date:   Tue Jan 12 10:42:34 2021 -0600
+
+    Update README.md
+
+commit 8db0e88b05c1dbb0995826d8f35c6710cc784520
+Author: annabel-mc <anne.mcmahon@ul.ie>
+Date:   Tue Jan 12 13:03:38 2021 +0000
+
+    edits to titles
+
+commit f7f7c77ac718d78325cd97b21c21f573e89a745a
+Author: annabel-mc <anne.mcmahon@ul.ie>
+Date:   Tue Jan 12 12:10:29 2021 +0000
+
+    edits to dates
+
+commit 7097289948b5b6639b0f66ff35d330390c18320f
+Author: annabel-mc <anne.mcmahon@ul.ie>
+Date:   Tue Jan 12 12:09:18 2021 +0000
+
+    edits to descriptions
+
+commit bc5084ea7c9003a49f1c54631095d18c037b2422
+Author: annabel-mc <anne.mcmahon@ul.ie>
+Date:   Tue Jan 12 12:06:50 2021 +0000
+
+    edits to titles
+
+commit df3dd159a7af66a57412ae1984c0e672929f5d6f
+Author: annabel-mc <anne.mcmahon@ul.ie>
+Date:   Tue Jan 12 11:48:52 2021 +0000
+
+    adds metadata file
+
+commit e83bf2d17b0400ff0ccbd3e69a0b3ed65dd5ef69
+Author: JenniferAWStubbs <jas58@nyu.edu>
+Date:   Mon Jan 11 17:15:17 2021 +0800
+
+    edits to descriptions
+
+commit 6256f51e5d915968cbb3223b15f05b9844257c87
+Author: JenniferAWStubbs <jas58@nyu.edu>
+Date:   Mon Jan 11 17:13:10 2021 +0800
+
+    edits to dates
+
+commit 535ac5283250f604c4c0b156fa81b1bc82e18d1a
+Author: JenniferAWStubbs <jas58@nyu.edu>
+Date:   Mon Jan 11 17:11:50 2021 +0800
+
+    edits to titles
+
+commit d9e0df1ace667c4551e9eedcc86d8aeb53aff006
+Author: JenniferAWStubbs <jas58@nyu.edu>
+Date:   Mon Jan 11 17:09:43 2021 +0800
+
+    add metadata file
+
+commit 61265119fe1710b8832753740ac5c549cf6fdaf3
+Author: Chris Diaz <chris-diaz@northwestern.edu>
+Date:   Wed Dec 30 16:57:42 2020 -0600
+
+    Update README.md
+
+commit b8beedb297564f1694fb49f3a57c56509882b2ee
+Author: Chris Diaz <chris-diaz@northwestern.edu>
+Date:   Wed Dec 30 16:38:48 2020 -0600
+
+    Update README.md
+
+commit cfe44506c24dcc6865b0afec676692c722a9d8e8
+Author: Chris Diaz <chris-diaz@northwestern.edu>
+Date:   Wed Dec 30 15:49:50 2020 -0600
+
+    Update README.md
+
+commit 3c176feeafbef0d709bec17533a7c947749ca70f
+Author: Chris Diaz <chris-diaz@northwestern.edu>
+Date:   Wed Dec 30 15:49:35 2020 -0600
+
+    Initial commit
