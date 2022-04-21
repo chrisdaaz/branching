@@ -1,0 +1,52 @@
+2022-04-21T16:41:47.335Z - info: [ui] [AppStore] loading 0 repositories from store
+2022-04-21T16:41:47.337Z - info: [ui] [AppStore] found account: hardytoni (Toni Hardy)
+2022-04-21T16:41:48.735Z - info: [ui] launching: 2.8.3 (Windows 10.0.19044)
+2022-04-21T16:41:48.737Z - info: [ui] execPath: 'C:\Users\HardyT\AppData\Local\GitHubDesktop\app-2.8.3\GitHubDesktop.exe'
+2022-04-21T16:41:49.221Z - info: [ui] Stats reported.
+2022-04-21T16:41:50.595Z - info: [ui] Executing installGlobalLFSFilter: git lfs install --skip-repo (took 3.015s)
+2022-04-21T16:42:19.679Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/hardytoni/Github-LJAcourse.git - hardytoni (has token)
+2022-04-21T16:42:28.612Z - info: [ui] Executing clone: git -c credential.helper= -c protocol.version=2 -c init.defaultBranch=main clone --recursive --progress -- https://github.com/hardytoni/Github-LJAcourse.git C:\Users\HardyT\OneDrive - Wellcome Cloud\My Documents\GitHub\Github-LJAcourse (took 8.229s)
+2022-04-21T16:42:28.825Z - info: [ui] [AppStore] adding repository at C:\Users\HardyT\OneDrive - Wellcome Cloud\My Documents\GitHub\Github-LJAcourse to store
+2022-04-21T16:42:33.228Z - info: [ui] Executing getConfigValueInPath: git config -z pull.rebase (took 1.111s)
+2022-04-21T16:42:33.626Z - info: [ui] Executing getBranches: git for-each-ref --format=%00%(refname)%00%(refname:short)%00%(upstream:short)%00%(objectname)%00%(author)%00%(symref)%00 refs/heads refs/remotes (took 1.474s)
+2022-04-21T16:42:33.752Z - info: [ui] Executing getConfigValueInPath: git config -z pull.rebase (took 1.444s)
+2022-04-21T16:42:37.289Z - info: [ui] Executing getRemotes: git remote -v (took 4.048s)
+2022-04-21T16:42:37.400Z - info: [ui] Executing getAuthorIdentity: git var GIT_AUTHOR_IDENT (took 4.138s)
+2022-04-21T16:42:37.400Z - info: [ui] Executing getCommits: git log origin/main..main --date=raw --max-count=100 -z --format=%H%x00%h%x00%s%x00%b%x00%an <%ae> %ad%x00%cn <%ce> %cd%x00%P%x00%(trailers:unfold,only)%x00%D --no-show-signature --no-color -- (took 4.171s)
+2022-04-21T16:42:37.508Z - info: [ui] Executing getStashEntries: git log -g -z --pretty=%gD%x1F%H%x1F%gs refs/stash (took 4.255s)
+2022-04-21T16:42:37.657Z - info: [ui] Executing getConfigValueInPath: git config -z pull.rebase (took 4.030s)
+2022-04-21T16:42:37.991Z - info: [ui] Executing getRemotes: git remote -v (took 4.228s)
+2022-04-21T16:42:37.992Z - info: [ui] Executing getCommits: git log origin/main..main --date=raw --max-count=100 -z --format=%H%x00%h%x00%s%x00%b%x00%an <%ae> %ad%x00%cn <%ce> %cd%x00%P%x00%(trailers:unfold,only)%x00%D --no-show-signature --no-color -- (took 4.240s)
+2022-04-21T16:42:37.992Z - info: [ui] Executing getAuthorIdentity: git var GIT_AUTHOR_IDENT (took 4.207s)
+2022-04-21T16:42:38.057Z - info: [ui] Executing getStashEntries: git log -g -z --pretty=%gD%x1F%H%x1F%gs refs/stash (took 4.283s)
+2022-04-21T16:42:39.081Z - info: [ui] Executing getStashEntries: git log -g -z --pretty=%gD%x1F%H%x1F%gs refs/stash (took 1.403s)
+2022-04-21T16:42:39.126Z - info: [ui] Executing getConfigValueInPath: git config -z trailer.separators (took 1.726s)
+2022-04-21T16:42:39.212Z - info: [ui] Executing getAuthorIdentity: git var GIT_AUTHOR_IDENT (took 1.522s)
+2022-04-21T16:42:39.257Z - info: [ui] Executing getRemotes: git remote -v (took 1.589s)
+2022-04-21T16:42:39.280Z - info: [ui] Executing getCommits: git log origin/main..main --date=raw --max-count=100 -z --format=%H%x00%h%x00%s%x00%b%x00%an <%ae> %ad%x00%cn <%ce> %cd%x00%P%x00%(trailers:unfold,only)%x00%D --no-show-signature --no-color -- (took 1.623s)
+2022-04-21T16:42:39.309Z - info: [ui] Executing getConfigValueInPath: git config -z trailer.separators (took 1.316s)
+2022-04-21T16:42:40.435Z - info: [ui] Executing isUsingLFS: git lfs track (took 11.281s)
+2022-04-21T16:42:40.531Z - info: [ui] [BranchPruner] Last prune took place in a day - skipping
+2022-04-21T16:42:42.916Z - info: [ui] Executing fetch: git -c credential.helper= -c protocol.version=2 fetch --progress --prune origin (took 1.668s)
+2022-04-21T16:44:06.433Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 1 repositories took 0.5s of which 0.0s paused, total 0.5s
+2022-04-21T16:44:06.726Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: Github-LJAcourse - hardytoni (has token)
+2022-04-21T16:44:08.684Z - info: [ui] [Timing] Action 'create branch' for 'hardytoni/Github-LJAcourse' took 2.481s
+2022-04-21T16:49:33.404Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/chrisdaaz/branching.git - hardytoni (has token)
+2022-04-21T16:49:38.115Z - info: [ui] Executing clone: git -c credential.helper= -c protocol.version=2 -c init.defaultBranch=main clone --recursive --progress -- https://github.com/chrisdaaz/branching.git C:\Users\HardyT\OneDrive - Wellcome Cloud\My Documents\GitHub\branching (took 4.443s)
+2022-04-21T16:49:38.297Z - info: [ui] [AppStore] adding repository at C:\Users\HardyT\OneDrive - Wellcome Cloud\My Documents\GitHub\branching to store
+2022-04-21T16:49:38.407Z - info: [ui] [BranchPruner] Last prune took place in a day - skipping
+2022-04-21T16:49:40.774Z - info: [ui] Executing isUsingLFS: git lfs track (took 2.156s)
+2022-04-21T16:49:43.343Z - info: [ui] [BranchPruner] Last prune took place in a day - skipping
+2022-04-21T16:51:15.013Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: branching - hardytoni (has token)
+2022-04-21T16:51:16.904Z - info: [ui] [Timing] Action 'create branch' for 'chrisdaaz/branching' took 2.396s
+2022-04-21T16:56:59.558Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: branching - hardytoni (has token)
+2022-04-21T16:57:02.179Z - info: [ui] [Timing] Action 'checkout branch from list' for 'chrisdaaz/branching' took 2.621s
+2022-04-21T16:57:08.166Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: branching - hardytoni (has token)
+2022-04-21T16:57:10.109Z - info: [ui] [Timing] Action 'checkout branch from list' for 'chrisdaaz/branching' took 1.943s
+2022-04-21T16:59:57.935Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 1 repositories took 1.0s of which 0.0s paused, total 1.0s
+2022-04-21T17:02:24.905Z - info: [ui] [Timing] Action 'create commit' for 'chrisdaaz/branching' took 3.127s
+2022-04-21T17:13:09.012Z - info: [ui] [Timing] Action 'create commit' for 'chrisdaaz/branching' took 3.148s
+2022-04-21T17:15:34.455Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 1 repositories took 1.2s of which 0.0s paused, total 1.2s
+2022-04-21T17:15:47.098Z - info: [ui] [Timing] Action 'create commit' for 'chrisdaaz/branching' took 3.112s
+2022-04-21T17:19:01.088Z - info: [ui] [Timing] Action 'create commit' for 'chrisdaaz/branching' took 3.197s
+2022-04-21T17:19:24.029Z - info: [ui] calling captureCommandOutput(where git)
