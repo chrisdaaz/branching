@@ -1,3 +1,66 @@
+commit eda47dfc4b4d4bab568a3a640d307c5073368116
+Author: Daniel Lawrence <103142159+daniel-lawrence@users.noreply.github.com>
+Date:   Tue Apr 26 15:20:04 2022 -0400
+
+    Changes to subjects
+
+commit e3cca1a8fedb8115cdaef890ac474e2b56d5aa36
+Author: Daniel Lawrence <103142159+daniel-lawrence@users.noreply.github.com>
+Date:   Tue Apr 26 15:18:15 2022 -0400
+
+    Changes to decriptions
+
+commit e65c36427ef4ac6b8f7b513bb74a86ed3bfa9d83
+Author: Daniel Lawrence <103142159+daniel-lawrence@users.noreply.github.com>
+Date:   Tue Apr 26 15:16:09 2022 -0400
+
+    Changes to dates
+
+commit 7dbb0332d660ed195091dd637b3306b4a385ca1d
+Author: Daniel Lawrence <103142159+daniel-lawrence@users.noreply.github.com>
+Date:   Tue Apr 26 15:13:40 2022 -0400
+
+    Clarifications to titles -- Moscow, ID and Snow Storm
+
+commit 66242f2cca6452d3c59d86e724c20232a173edff
+Author: Daniel Lawrence <103142159+daniel-lawrence@users.noreply.github.com>
+Date:   Tue Apr 26 15:08:09 2022 -0400
+
+    replaced metadata file with original csv
+
+commit fef0233052b96b028e5c3f4250ab35efcd9ebbf5
+Merge: 62538a2 1ff7935
+Author: vsloyan <43473224+vsloyan@users.noreply.github.com>
+Date:   Tue Apr 26 14:17:50 2022 +0100
+
+    Merge pull request #47 from chrisdaaz/sloyan
+    
+    Sloyan
+
+commit 1ff793554ba01722915b8bb604f1ab5d1bc98e6e
+Author: vsloyan <v.sloyan@wellcome.org>
+Date:   Tue Apr 26 14:13:21 2022 +0100
+
+    edits to descriptions
+
+commit 68b51699231a87c5f30c111cdfa05edbae551a45
+Author: vsloyan <v.sloyan@wellcome.org>
+Date:   Tue Apr 26 14:12:56 2022 +0100
+
+    edits to dates
+
+commit e75d811260ea6132f147f0892799854297415edf
+Author: vsloyan <v.sloyan@wellcome.org>
+Date:   Tue Apr 26 14:12:28 2022 +0100
+
+    edits to titles
+
+commit 9c9ddc07468182d812fab278a1a03f20c7112daa
+Author: vsloyan <v.sloyan@wellcome.org>
+Date:   Tue Apr 26 14:01:26 2022 +0100
+
+    adds git log
+
 commit 9578b71e69f60842e219fc478005da0be7f78fd3
 Author: vsloyan <v.sloyan@wellcome.org>
 Date:   Tue Apr 26 14:00:45 2022 +0100
