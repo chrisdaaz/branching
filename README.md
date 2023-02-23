@@ -72,7 +72,7 @@ git commit -am "edits to descriptions"
 13. Create a log file for your repository:
 
 ```bash
-git log > log.txt
+echo "log" > log.txt
 ```
 
 14. Commit the log file to your branch:
