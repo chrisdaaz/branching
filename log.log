@@ -1,0 +1,26 @@
+2023-04-03T16:28:31.359Z - info: [main] Using toast activator CLSID {27D44D0C-A542-5B90-BCDB-AC3126048BA2}
+2023-04-03T16:28:32.113Z - info: [ui] [AppStore] loading 1 repositories from store
+2023-04-03T16:28:32.115Z - info: [ui] [AppStore] found account: abbydover (abbydover)
+2023-04-03T16:28:32.562Z - info: [ui] launching: 3.2.0 (Windows 10.0.22621)
+2023-04-03T16:28:32.608Z - info: [ui] execPath: 'C:\Users\abbyd\AppData\Local\GitHubDesktop\app-3.2.0\GitHubDesktop.exe'
+2023-04-03T16:28:33.037Z - info: [ui] Subscribed 'abbydover' to Alive channel
+2023-04-03T16:28:33.283Z - info: [ui] Stats reported.
+2023-04-03T17:22:14.159Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: Dover-first-repo - abbydover (has token)
+2023-04-03T19:47:19.137Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/chrisdaaz/branching.git - abbydover (has token)
+2023-04-03T19:47:20.844Z - info: [ui] Executing clone: git -c credential.helper= -c init.defaultBranch=main clone --recursive --progress -- https://github.com/chrisdaaz/branching.git C:\Users\abbyd\Documents\GitHub\branching (took 1.703s)
+2023-04-03T19:47:20.898Z - info: [ui] [AppStore] adding repository at C:\Users\abbyd\Documents\GitHub\branching to store
+2023-04-03T19:47:20.956Z - info: [ui] [BranchPruner] Last prune took place 3 hours ago - skipping
+2023-04-03T19:47:30.037Z - info: [ui] [BranchPruner] Last prune took place 9 seconds ago - skipping
+2023-04-03T19:48:28.740Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: branching - abbydover (has token)
+2023-04-03T19:48:29.180Z - info: [ui] [Timing] Action 'create branch' for 'chrisdaaz/branching' took 0.665s
+2023-04-03T19:56:17.851Z - info: [ui] [Timing] Action 'create commit' for 'chrisdaaz/branching' took 0.398s
+2023-04-03T19:57:11.455Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: branching - abbydover (has token)
+2023-04-03T19:57:11.895Z - info: [ui] [Timing] Action 'checkout branch from list' for 'chrisdaaz/branching' took 0.440s
+2023-04-03T19:57:15.248Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: branching - abbydover (has token)
+2023-04-03T19:57:15.678Z - info: [ui] [Timing] Action 'checkout branch from list' for 'chrisdaaz/branching' took 0.430s
+2023-04-03T19:57:50.944Z - info: [ui] [Timing] Action 'checkout branch from list' for 'chrisdaaz/branching' took 0.000s
+2023-04-03T20:01:55.379Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 1 repositories took 0.3s of which 0.0s paused, total 0.3s
+2023-04-03T20:02:15.447Z - info: [ui] [Timing] Action 'create commit' for 'chrisdaaz/branching' took 0.400s
+2023-04-03T20:02:21.134Z - info: [main] opening in browser: https://github.com/chrisdaaz/branching
+2023-04-03T20:03:50.783Z - info: [ui] [Timing] Action 'create commit' for 'chrisdaaz/branching' took 0.414s
+2023-04-03T20:05:14.849Z - info: [ui] [Timing] Action 'create commit' for 'chrisdaaz/branching' took 0.405s
